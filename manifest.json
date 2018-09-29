@@ -1,0 +1,14 @@
+{
+  "name": "Fortify",
+  "description": "Make a watermark embedded copyright using steganography system'FORTIFY!'. ",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+      "default_title": "Stego Tool",
+      "default_icon": "icon2.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
